@@ -36,7 +36,7 @@ SideCopy
 
 Predatory Sparrow
 
-#The objective is to:
+# The objective is to:
 
 Identify Tactics, Techniques, and Procedures (TTPs) relevant to rail infrastructure
 Map adversary behavior to the MITRE ATT&CK framework
