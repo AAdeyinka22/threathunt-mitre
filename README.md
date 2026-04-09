@@ -17,7 +17,8 @@ Using real-world threat intelligence and the **MITRE ATT&CK framework**, the pro
 ## 👤 Author
 
 **Martins Adeyanju**
-Threat Intelligence & SOC Analyst
+
+Cybersecurity Analyst
 
 ---
 
