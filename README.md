@@ -3,10 +3,15 @@
 # Project Information
 
 Author: Martins Adeyanju
+
 Type: Threat Intelligence & Threat Hunting
+
 Target Country: United Kingdom
+
 Sector Focus: Rail Transportation / Critical Infrastructure
+
 Framework: MITRE ATT&CK Enterprise
+
 Tools Used:
 
 MITRE ATT&CK Navigator
