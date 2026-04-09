@@ -15,7 +15,9 @@ Framework: MITRE ATT&CK Enterprise
 Tools Used:
 
 MITRE ATT&CK Navigator
+
 SOCRadar (Threat Actor Intelligence Dashboard)
+
 Open-source Intelligence (OSINT)
 
 # Objective
