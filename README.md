@@ -185,6 +185,11 @@ Common attacker patterns:
 *(Add your screenshots here — recommended for recruiters)*
 
 ![App Screenshot](https://github.com/AAdeyinka22/Mitre-Attck-APT-Threat-Hunting/blob/main/FIN7.jpg)
+![App Screenshot](https://github.com/AAdeyinka22/Mitre-Attck-APT-Threat-Hunting/blob/main/Electrum.jpg)
+![App Screenshot](https://github.com/AAdeyinka22/Mitre-Attck-APT-Threat-Hunting/blob/main/DarkHotel.jpg)
+![App Screenshot](https://github.com/AAdeyinka22/Mitre-Attck-APT-Threat-Hunting/blob/main/GhostSec.jpg)
+![App Screenshot](https://github.com/AAdeyinka22/Mitre-Attck-APT-Threat-Hunting/blob/main/SideCopy.jpg)
+![App Screenshot](https://github.com/AAdeyinka22/Mitre-Attck-APT-Threat-Hunting/blob/main/Predatory%20Sparrow.jpg)
 * Threat Intelligence Dashboard (SOCRadar)
 * MITRE ATT&CK Navigator Layers
 * Technique Mapping Views
