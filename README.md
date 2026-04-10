@@ -167,19 +167,6 @@ Common attacker patterns:
 
 ---
 
-## 🧪 How to Replicate
-
-1. Go to [https://attack.mitre.org/groups](https://attack.mitre.org/groups)
-2. Research selected threat actors
-3. Open [https://mitre-attack.github.io/attack-navigator](https://mitre-attack.github.io/attack-navigator)
-4. Create a new **Enterprise layer**
-5. Map techniques per actor
-6. Assign colors per group
-7. Overlay layers for comparison
-8. Document findings
-
----
-
 ## 📸 Screenshots
 
 ![App Screenshot](https://github.com/AAdeyinka22/Mitre-Attck-APT-Threat-Hunting/blob/main/FIN7.jpg)
